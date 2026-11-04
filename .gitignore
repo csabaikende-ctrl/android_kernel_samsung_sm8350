@@ -157,3 +157,7 @@ scripts/crypto/__pycache__/
 
 # Out
 out/
+
+# BakaSU build outputs
+/bakasu_work/
+/out/
